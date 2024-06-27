@@ -72,7 +72,7 @@ http://114.246.102.14:4000/rtp/239.3.1.158:8000
 http://114.246.102.14:4000/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BJ04" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
 http://114.246.102.14:4000/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="BJ06" tvg-name="BTV少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
+#EXTINF:-1 tvg-id="BJ06" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
 http://114.246.102.14:4000/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="BJ07" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
 http://114.246.102.14:4000/rtp/239.3.1.116:8000
