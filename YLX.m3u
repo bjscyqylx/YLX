@@ -76,7 +76,7 @@ http://114.246.102.14:4000/rtp/239.3.1.117:8000
 http://114.246.102.14:4000/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-id="BJ07" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
 http://114.246.102.14:4000/rtp/239.3.1.116:8000
-#EXTINF:-1,tvg-id="BJ09" tvg-name="BTV体育休闲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京体育休闲.png" group-title="地方特色",北京体育休闲
+#EXTINF:-1,tvg-id="BJ09" tvg-name="北京体育休闲" tvg-logo="https://tv.5i計畫通行.cloudns.org/LOGO/北京体育休闲.png" group-title="地方特色",北京体育休闲
 http://114.246.102.14:4000/# rtp/239.3.1.243:8000
 
 #卫视台
