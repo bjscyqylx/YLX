@@ -82,8 +82,6 @@ http://gouwu.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8
 http://gouwu.pthv.gitv.tv:91/live/ZJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视",东方卫视
 http://gouwu.pthv.gitv.tv:91/live/DFWShd-8M/live.m3u8
-#EXTINF:-1 tvg-id="B04" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="卫视",北京卫视
-http://gouwu.pthv.gitv.tv:91/live/BJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="B05" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Jiangsu.png" group-title="卫视",江苏卫视
 http://gouwu.pthv.gitv.tv:91/live/JSWShd-8M/live.m3u8
 #EXTINF:-1 tvg-id="B06" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视",安徽卫视
@@ -206,61 +204,3 @@ http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 #EXTINF:-1 tvg-id="tywq" tvg-name="天元围棋" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/tywq.png" group-title="其他",天元围棋
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
-
-#国际
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="国际",AlJazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang TV" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/Arirang_TV.png" group-title="国际",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="RT01" tvg-name="RT News" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_News.png" group-title="国际",RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="RT02" tvg-name="RT Español" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_News.png" group-title="国际",RT Español
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-#EXTINF:-1 tvg-id="RT03" tvg-name="RT Français" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_News.png" group-title="国际",RT Français
-https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
-#EXTINF:-1 tvg-id="RT04" tvg-name="RT Arabic" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_News.png" group-title="国际",RT Arabic
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="RT05" tvg-name="RT DE" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_DE.png" group-title="国际",RT DE
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:-1 tvg-id="RT06" tvg-name="RT Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_Doc.png" group-title="国际",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/RT_Doc.png" group-title="国际",RT Doc-Русский
-https://hls.rt.com/hls/rtdru360.m3u8
-#EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="" group-title="国际",日本新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-#EXTINF:-1 tvg-id="N01" tvg-name="NBC News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",NBC News
-https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-#EXTINF:-1 tvg-id="N02" tvg-name="News 12 New York" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",News 12 New York
-https://lnc-news12.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="F01" tvg-name="FOX News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",FOX News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="F02" tvg-name="Fox Weather" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",Fox Weather
-https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",CNN
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",BBC
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",SKY
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",SKY NEWS
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KBS world" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",KBS world
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际",FIFA+
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-#EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际",CGTN
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际",CGTN Documentary
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN03" tvg-name="CGTN Français" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNfy.png" group-title="国际",CGTN Français
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN04" tvg-name="CGTN Русский" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNey.png" group-title="国际",CGTN Русский
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN05" tvg-name="CGTN Español" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNxbyy.png" group-title="国际",CGTN Español
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CGTN06" tvg-name="CGTN العربية" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNalby.png" group-title="国际",CGTN العربية
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
