@@ -150,6 +150,12 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 
 #直播
+#EXTINF:-1 group-title="直播",影视解说1
+http://zzy789.xyz/douyu1.php?id=2758565
+#EXTINF:-1 group-title="直播",影视解说2
+http://zzy789.xyz/douyu1.php?id=9559158
+#EXTINF:-1 group-title="直播",影视解说3
+http://zzy789.xyz/douyu1.php?id=3508304
 #EXTINF:-1 group-title="直播",科幻动作
 http://zzy789.xyz/douyu1.php?id=4332
 #EXTINF:-1 group-title="直播",神乐影院
@@ -164,12 +170,30 @@ http://zzy789.xyz/douyu1.php?id=6079455
 http://zzy789.xyz/douyu1.php?id=323876
 #EXTINF:-1 group-title="直播",可乐影院
 http://zzy789.xyz/douyu1.php?id=20415
+#EXTINF:-1 group-title="直播",蓝翔影院
+http://zzy789.xyz/douyu1.php?id=276200
 #EXTINF:-1 group-title="直播",豆瓣高分
 http://zzy789.xyz/douyu1.php?id=8770422
 #EXTINF:-1 group-title="直播",经典港剧
 http://zzy789.xyz/douyu1.php?id=4549169
 #EXTINF:-1 group-title="直播",精彩美剧
 http://zzy789.xyz/douyu1.php?id=8869614
+#EXTINF:-1 group-title="直播",国产剧集
+http://zzy789.xyz/douyu1.php?id=2838296
+#EXTINF:-1 group-title="直播",国产神剧
+http://zzy789.xyz/douyu1.php?id=299854
+#EXTINF:-1 group-title="直播",国语经典
+http://zzy789.xyz/douyu1.php?id=10084875
+#EXTINF:-1 group-title="直播",搞笑剧集
+http://zzy789.xyz/douyu1.php?id=319576
+#EXTINF:-1 group-title="直播",爱情公寓
+http://zzy789.xyz/douyu1.php?id=6863367
+#EXTINF:-1 group-title="直播",下饭神剧
+http://zzy789.xyz/douyu1.php?id=7642724
+#EXTINF:-1 group-title="直播",孤独美食家
+http://zzy789.xyz/douyu1.php?id=260322
+#EXTINF:-1 group-title="直播",动画花园
+http://zzy789.xyz/douyu1.php?id=426517
 #EXTINF:-1 group-title="直播",动画经典
 http://zzy789.xyz/douyu1.php?id=6610883
 #EXTINF:-1 group-title="直播",海绵宝宝
@@ -180,6 +204,8 @@ http://zzy789.xyz/douyu1.php?id=997925
 http://zzy789.xyz/douyu1.php?id=1174353
 #EXTINF:-1 group-title="直播",经典动画
 http://zzy789.xyz/douyu1.php?id=9445279
-
-
+#EXTINF:-1 group-title="直播",经典小品1
+http://zzy789.xyz/douyu1.php?id=9067836
+#EXTINF:-1 group-title="直播",经典小品2
+http://zzy789.xyz/douyu1.php?id=10153463
 
