@@ -150,7 +150,36 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
 
 #直播
-#EXTINF:-1 group-title="直播",斗鱼电影
-http://zzy789.xyz/douyu1.php?id=5908256
+#EXTINF:-1 group-title="直播",科幻动作
+http://zzy789.xyz/douyu1.php?id=4332
+#EXTINF:-1 group-title="直播",神乐影院
+http://zzy789.xyz/douyu1.php?id=85894
+#EXTINF:-1 group-title="直播",苹果影院
+http://zzy789.xyz/douyu1.php?id=2793084
+#EXTINF:-1 group-title="直播",贝贝影院
+http://zzy789.xyz/douyu1.php?id=431460
+#EXTINF:-1 group-title="直播",蚂蚱影院
+http://zzy789.xyz/douyu1.php?id=6079455
+#EXTINF:-1 group-title="直播",小宇影院
+http://zzy789.xyz/douyu1.php?id=323876
+#EXTINF:-1 group-title="直播",可乐影院
+http://zzy789.xyz/douyu1.php?id=20415
+#EXTINF:-1 group-title="直播",豆瓣高分
+http://zzy789.xyz/douyu1.php?id=8770422
+#EXTINF:-1 group-title="直播",经典港剧
+http://zzy789.xyz/douyu1.php?id=4549169
+#EXTINF:-1 group-title="直播",精彩美剧
+http://zzy789.xyz/douyu1.php?id=8869614
+#EXTINF:-1 group-title="直播",海贼王
+http://zzy789.xyz/douyu1.php?id=6610883
+#EXTINF:-1 group-title="直播",海绵宝宝
+http://zzy789.xyz/douyu1.php?id=3949681
+#EXTINF:-1 group-title="直播",海贼动漫
+http://zzy789.xyz/douyu1.php?id=997925
+#EXTINF:-1 group-title="直播",怀旧动画
+http://zzy789.xyz/douyu1.php?id=1174353
+#EXTINF:-1 group-title="直播",经典动画
+http://zzy789.xyz/douyu1.php?id=9445279
+
 
 
