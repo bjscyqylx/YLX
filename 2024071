@@ -135,6 +135,12 @@ http://zzy789.xyz/douyu1.php?id=20415
 http://zzy789.xyz/douyu1.php?id=276200
 #EXTINF:-1 group-title="电影",豆瓣高分
 http://zzy789.xyz/douyu1.php?id=8770422
+#EXTINF:-1 group-title="电影",周星驰
+http://diyp.zxxoo.work/huya/11342412
+#EXTINF:-1 group-title="电影",沈腾
+http://diyp.zxxoo.work/huya/11601968
+#EXTINF:-1 group-title="电影",贺岁
+http://diyp.zxxoo.work/huya/11601986
 #EXTINF:-1 group-title="电影",影视解说1
 http://zzy789.xyz/douyu1.php?id=2758565
 #EXTINF:-1 group-title="电影",影视解说2
@@ -158,25 +164,34 @@ http://zzy789.xyz/douyu1.php?id=6911044
 #EXTINF:-1 group-title="剧集",康熙微服私访
 http://zzy789.xyz/douyu1.php?id=7550220
 #EXTINF:-1 group-title="剧集",亮剑
-https://live.metshop.top/huya/30080238
-#EXTINF:-1 group-title="剧集",经典港剧
+http://diyp.zxxoo.work/huya/30080238
+#EXTINF:-1 group-title="剧集",鹿鼎记
+http://diyp.zxxoo.work/huya/23865080
+#EXTINF:-1 group-title="剧集",鬼吹灯
+http://diyp.zxxoo.work/huya/29852720
+#EXTINF:-1 group-title="剧集",四合院
+http://diyp.zxxoo.work/huya/11342426
+#EXTINF:-1 group-title="剧集",经典港剧1
+http://diyp.zxxoo.work/huya/29465856
+#EXTINF:-1 group-title="剧集",经典港剧2
 http://zzy789.xyz/douyu1.php?id=4549169
+#EXTINF:-1 group-title="剧集",经典港剧3
+http://zzy789.xyz/douyu1.php?id=29465853
 #EXTINF:-1 group-title="剧集",国产剧集
 http://zzy789.xyz/douyu1.php?id=2838296
 #EXTINF:-1 group-title="剧集",国产神剧
 http://zzy789.xyz/douyu1.php?id=299854
 #EXTINF:-1 group-title="剧集",国语经典
 http://zzy789.xyz/douyu1.php?id=10084875
-#EXTINF:-1 group-title="剧集",搞笑剧集
-http://zzy789.xyz/douyu1.php?id=319576
-#EXTINF:-1 group-title="剧集",下饭神剧
-http://zzy789.xyz/douyu1.php?id=7642724
-#EXTINF:-1 group-title="剧集",韩综艺
-http://zzy789.xyz/douyu1.php?id=131977
+
 
 #动漫
-#EXTINF:-1 tvg-id="hmdh" tvg-name="黑莓动画" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdh.png" group-title="动漫",黑莓动画
+#EXTINF:-1 group-title="动漫",黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="动漫",火影忍者
+http://diyp.zxxoo.work/huya/29465866
+#EXTINF:-1 group-title="动漫",宝可梦
+http://diyp.zxxoo.work/huya/29465874
 #EXTINF:-1 group-title="动漫",动画花园
 http://zzy789.xyz/douyu1.php?id=426517
 #EXTINF:-1 group-title="动漫",动画经典
@@ -190,11 +205,22 @@ http://zzy789.xyz/douyu1.php?id=1174353
 #EXTINF:-1 group-title="动漫",经典动画
 http://zzy789.xyz/douyu1.php?id=9445279
 
-#小品
-#EXTINF:-1 group-title="小品",经典小品1
+#搞笑
+
+#EXTINF:-1 group-title="搞笑",快乐生活
+http://diyp.zxxoo.work/huya/11602085
+#EXTINF:-1 group-title="搞笑",龙门镖局
+http://diyp.zxxoo.work/huya/11352874
+#EXTINF:-1 group-title="搞笑",经典小品1
 http://zzy789.xyz/douyu1.php?id=9067836
-#EXTINF:-1 group-title="小品",经典小品2
+#EXTINF:-1 group-title="搞笑",经典小品2
 http://zzy789.xyz/douyu1.php?id=10153463
+#EXTINF:-1 group-title="搞笑",搞笑剧集
+http://zzy789.xyz/douyu1.php?id=319576
+#EXTINF:-1 group-title="搞笑",下饭神剧
+http://zzy789.xyz/douyu1.php?id=7642724
+#EXTINF:-1 group-title="搞笑",韩综艺
+http://zzy789.xyz/douyu1.php?id=131977
 
 #游戏
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="游戏",哒啵赛事
