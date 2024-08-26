@@ -117,12 +117,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 
 #电影
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="电影",CHC影迷电影
-https://pi.0472.org/chc/ym.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影",CHC动作电影
-https://pi.0472.org/chc/dz.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影",CHC家庭影院
-https://pi.0472.org/chc/jt.m3u8
 #EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="电影",黑莓电影
@@ -163,9 +157,7 @@ http://zzy789.xyz/douyu1.php?id=260322
 http://zzy789.xyz/douyu1.php?id=6863367
 #EXTINF:-1 group-title="剧集",生活大爆炸
 http://zzy789.xyz/douyu1.php?id=6668627
-#EXTINF:-1 group-title="剧集",家有儿女
-http://zzy789.xyz/douyu1.php?id=11827530
-#EXTINF:-1 group-title="剧集",李卫当官
+#EXTINF:-1 group-title="剧集",雍正王朝
 http://zzy789.xyz/douyu1.php?id=6911044
 #EXTINF:-1 group-title="剧集",康熙微服私访
 http://zzy789.xyz/douyu1.php?id=7550220
@@ -177,18 +169,18 @@ http://diyp.zxxoo.work/huya/23865080
 http://diyp.zxxoo.work/huya/29852720
 #EXTINF:-1 group-title="剧集",四合院
 http://diyp.zxxoo.work/huya/11342426
+#EXTINF:-1 group-title="剧集",大染坊
+http://zzy789.xyz/douyu1.php?id=11602086
 #EXTINF:-1 group-title="剧集",经典港剧1
 http://diyp.zxxoo.work/huya/29465856
 #EXTINF:-1 group-title="剧集",经典港剧2
 http://zzy789.xyz/douyu1.php?id=4549169
-#EXTINF:-1 group-title="剧集",经典港剧3
-http://zzy789.xyz/douyu1.php?id=29465853
 #EXTINF:-1 group-title="剧集",国产剧集
 http://zzy789.xyz/douyu1.php?id=2838296
 #EXTINF:-1 group-title="剧集",国产神剧
 http://zzy789.xyz/douyu1.php?id=299854
-#EXTINF:-1 group-title="剧集",国语经典
-http://zzy789.xyz/douyu1.php?id=10084875
+#EXTINF:-1 group-title="剧集",白鹿原
+http://zzy789.xyz/douyu1.php?id=11342416
 
 
 #动漫
@@ -212,7 +204,8 @@ http://zzy789.xyz/douyu1.php?id=1174353
 http://zzy789.xyz/douyu1.php?id=9445279
 
 #搞笑
-
+#EXTINF:-1 group-title="搞笑",炊事班
+http://diyp.zxxoo.work/huya/19524135
 #EXTINF:-1 group-title="搞笑",快乐生活
 http://diyp.zxxoo.work/huya/11602085
 #EXTINF:-1 group-title="搞笑",龙门镖局
@@ -229,9 +222,16 @@ http://zzy789.xyz/douyu1.php?id=7642724
 http://zzy789.xyz/douyu1.php?id=131977
 
 #游戏
+#EXTINF:-1 group-title="游戏",单机游戏1
+http://diyp.zxxoo.work/huya/10098
+#EXTINF:-1 group-title="游戏",单机游戏2
+http://diyp.zxxoo.work/huya/52577
+#EXTINF:-1 group-title="游戏",单机游戏3
+http://diyp.zxxoo.work/huya/699689
+#EXTINF:-1 group-title="游戏",英雄联盟
+http://zzy789.xyz/douyu1.php?id=288016
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="游戏",哒啵赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/哒啵电竞.png" group-title="游戏",哒啵电竞
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="游戏",英雄联盟
-http://zzy789.xyz/douyu1.php?id=288016
+
