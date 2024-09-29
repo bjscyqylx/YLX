@@ -1,4 +1,27 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#北京台
+#EXTINF:-1 tvg-id="B04" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="北京",北京卫视
+http://124.64.189.63:8888/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-id="BJ01" tvg-name="BRTV新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京新闻
+http://124.64.189.63:8888/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="BJ01" tvg-name="BRTV科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",BRTV纪实科教
+http://124.64.189.63:8888/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-id="BJ02" tvg-name="BRTV影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="北京",北京影视
+http://124.64.189.63:8888/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="BJ03" tvg-name="BRTV文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="北京",北京文艺
+http://124.64.189.63:8888/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="BJ04" tvg-name="BRTV生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="北京",北京生活
+http://124.64.189.63:8888/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="BJ07" tvg-name="BRTV财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京财经
+http://124.64.189.63:8888/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="BJ07" tvg-name="BRTV青年" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",BRTV青年
+http://124.64.189.63:8888/# rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-id="BJ07" tvg-name="BRTV体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",BRTV体育
+http://124.64.189.63:8888/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="BJ06" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",北京少儿
+http://124.64.189.63:8888/rtp/239.3.1.189:8000
+
 #中央台
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -38,23 +61,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
-#北京台
-#EXTINF:-1 tvg-id="B04" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="北京",北京卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 tvg-id="BJ01" tvg-name="BTV体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京新闻
-http://114.246.102.14:4000/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京",北京科教
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-#EXTINF:-1 tvg-id="BJ02" tvg-name="BTV影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="北京",北京影视
-http://114.246.102.14:4000/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="BJ03" tvg-name="BTV文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="北京",北京文艺
-http://114.246.102.14:4000/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="BJ04" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="北京",北京生活
-http://114.246.102.14:4000/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="BJ07" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京财经
-http://114.246.102.14:4000/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="BJ06" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",北京少儿
-http://114.246.102.14:4000/rtp/239.3.1.189:8000
+
 
 #卫视台
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南卫视
