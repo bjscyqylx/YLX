@@ -2,19 +2,19 @@
 
 #北京台
 #EXTINF:-1 tvg-id="B01" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="北京",北京卫视
-http://124.64.189.63:8888/rtp/239.3.1.241:8000
+http://115.171.216.51:4000/udp/225.1.8.21:8002
 #EXTINF:-1 tvg-id="BJ02" tvg-name="BTV新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京新闻
-http://124.64.189.63:8888/rtp/239.3.1.159:8000
+http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 #EXTINF:-1 tvg-id="BJ03" tvg-name="BTV科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京科教
-http://124.64.189.63:8888/rtp/239.3.1.115:8000
+http://115.171.216.51:4000/udp/225.1.8.105:8002
 #EXTINF:-1 tvg-id="BJ04" tvg-name="BTV影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="北京",北京影视
-http://124.64.189.63:8888/rtp/239.3.1.158:8000
+http://115.171.216.51:4000/udp/225.1.8.82:8000
 #EXTINF:-1 tvg-id="BJ05" tvg-name="BTV文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="北京",北京文艺
-http://124.64.189.63:8888/rtp/239.3.1.242:8000
+http://115.171.216.51:4000/udp/225.1.8.22:8002
 #EXTINF:-1 tvg-id="BJ06" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="北京",北京生活
-http://124.64.189.63:8888/rtp/239.3.1.117:8000
+http://115.171.216.51:4000/udp/225.1.8.108:8002
 #EXTINF:-1 tvg-id="BJ07" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京财经
-http://124.64.189.63:8888/rtp/239.3.1.116:8000
+http://115.171.216.51:4000/udp/225.1.8.106:8002
 #EXTINF:-1 tvg-id="BJ08" tvg-name="BTV体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",BRTV体育
 http://124.64.189.63:8888/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BJ09" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",北京少儿
