@@ -17,7 +17,7 @@ http://123.123.167.240:8000/rtp/239.3.1.117:8000
 http://123.123.167.240:8000/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="BJ08" tvg-name="BTV体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京体育
 http://123.123.167.240:8000/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="BJ08" tvg-name="BTV国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",BRTV国际
+#EXTINF:-1 tvg-id="BJ08" tvg-name="BTV国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京国际
 http://123.123.167.240:8000/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="BJ09" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",北京少儿
 http://123.123.167.240:8000/rtp/239.3.1.189:8000
