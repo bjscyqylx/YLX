@@ -45,7 +45,7 @@ http://123.123.167.240:8000/rtp/239.3.1.174:8001
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 http://123.123.167.240:8000/rtp/239.3.1.61:8104
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-hhttp://123.123.167.240:8000/rtp/239.3.1.175:8001
+http://221.221.153.193:8888/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 http://123.123.167.240:8000/rtp/239.3.1.62:8112
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
