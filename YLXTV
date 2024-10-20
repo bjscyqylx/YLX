@@ -2,68 +2,62 @@
 
 #北京台
 #EXTINF:-1 tvg-id="B01" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="北京",北京卫视
-http://123.123.167.240:8000/rtp/239.3.1.241:8000
+http://123.113.182.168:9000/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-id="BJ02" tvg-name="BTV新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京新闻
-http://123.123.167.240:8000/rtp/239.3.1.159:8000
+http://123.113.182.168:9000/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="BJ03" tvg-name="BTV科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京科教
-http://123.123.167.240:8000/rtp/239.3.1.115:8000
+http://123.113.182.168:9000/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="BJ04" tvg-name="BTV影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="北京",北京影视
-http://123.123.167.240:8000/rtp/239.3.1.158:8000
+http://123.113.182.168:9000/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="BJ05" tvg-name="BTV文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="北京",北京文艺
-http://123.123.167.240:8000/rtp/239.3.1.242:8000
+http://123.113.182.168:9000/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BJ06" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="北京",北京生活
-http://123.123.167.240:8000/rtp/239.3.1.117:8000
+http://123.113.182.168:9000/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BJ07" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京财经
-http://123.123.167.240:8000/rtp/239.3.1.116:8000
+http://123.113.182.168:9000/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="BJ08" tvg-name="BTV体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京体育
-http://123.123.167.240:8000/rtp/239.3.1.243:8000
+http://123.113.182.168:9000/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BJ08" tvg-name="BTV国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京国际
-http://123.123.167.240:8000/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="BJ09" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",北京少儿
-http://123.123.167.240:8000/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="BJ09" tvg-name="朝阳融媒" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",朝阳融媒
-http://123.123.167.240:8000/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="BJ09" tvg-name="通州融媒" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",北京少儿
-http://123.123.167.240:8000/rtp/239.3.1.189:8000
+http://123.113.182.168:9000/rtp/239.3.1.235:8000
 
 
 #中央台
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-http://123.123.167.240:8000/rtp/239.3.1.129:8008
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-http://123.123.167.240:8000/rtp/239.3.1.60:8084
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://123.123.167.240:8000/rtp/239.3.1.172:8001
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://123.123.167.240:8000/rtp/239.3.1.105:8092
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-http://123.123.167.240:8000/rtp/239.3.1.173:8001
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://123.123.167.240:8000/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-http://123.123.167.240:8000/rtp/239.3.1.174:8001
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://123.123.167.240:8000/rtp/239.3.1.61:8104
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://221.221.153.193:8888/rtp/239.3.1.175:8001
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://123.123.167.240:8000/rtp/239.3.1.62:8112
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-http://123.123.167.240:8000/rtp/239.3.1.63:8116
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://123.123.167.240:8000/rtp/239.3.1.152:8120
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://123.123.167.240:8000/rtp/239.3.1.64:8124
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://123.123.167.240:8000/rtp/239.3.1.124:8128
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://123.123.167.240:8000/rtp/239.3.1.65:8132
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://123.123.167.240:8000/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://123.123.167.240:8000/rtp/239.3.1.184:8001
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://123.123.167.240:8000/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道", CCTV1
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道", CCTV2
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道", CCTV3
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/main.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道", CCTV4
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道", CCTV5
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265005/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道", CCTV5+
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000018504/1.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道", CCTV6
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265006/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道", CCTV7
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道", CCTV8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道", CCTV9
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道", CCTV10
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道", CCTV11
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226541/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道", CCTV12
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031107/1.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道", CCTV13
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道", CCTV14
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226166/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道", CCTV15
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/1.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道", CCTV16
+http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道", CCTV17
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8
 
 
 #卫视台
@@ -159,7 +153,7 @@ http://diyp.zxxoo.work/huya/11601986
 
 #剧集
 #EXTINF:-1 group-title="剧集",淘剧场HD
-http://123.123.167.240:8000/rtp/239.3.1.95:8001
+http://123.114.80.74:8012/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="剧集",孤独美食家
 http://zzy789.xyz/douyu1.php?id=260322
 #EXTINF:-1 group-title="剧集",爱情公寓
@@ -210,7 +204,7 @@ http://zzy789.xyz/douyu1.php?id=9445279
 
 #搞笑
 #EXTINF:-1 group-title="搞笑",淘娱乐
-http://123.123.167.240:8000/rtp/239.3.1.100:8001
+http://123.114.80.74:8012/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="搞笑",搞笑剧集
 http://diyp.zxxoo.work/huya/11602085
 #EXTINF:-1 group-title="搞笑",搞笑剧集
