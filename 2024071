@@ -19,12 +19,6 @@ http://123.113.182.168:9000/rtp/239.3.1.116:8000
 http://123.113.182.168:9000/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BJ08" tvg-name="BTV国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京国际
 http://123.113.182.168:9000/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-id="BJ09" tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",北京少儿
-http://123.114.80.74:8012/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="BJ09" tvg-name="朝阳融媒" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",朝阳融媒
-http://123.114.80.74:8012/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="BJ09" tvg-name="通州融媒" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="北京",北京少儿
-http://123.114.80.74:8012/rtp/239.3.1.189:8000
 
 
 #中央台
