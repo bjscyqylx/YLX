@@ -2,23 +2,21 @@
 
 #北京台
 #EXTINF:-1 tvg-id="B01" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing.png" group-title="北京",北京卫视
-http://123.121.93.25:8686/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-id="BJ02" tvg-name="BTV新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京新闻
+http://106.120.14.74:2333/udp/225.1.8.21:8002
+#EXTINF:-1 tvg-id="BJ02" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京新闻
 http://123.121.93.25:8686/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="BJ03" tvg-name="BTV科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京科教
-http://123.121.93.25:8686/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="BJ04" tvg-name="BTV影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="北京",北京影视
-http://123.121.93.25:8686/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="BJ05" tvg-name="BTV文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="北京",北京文艺
-http://123.121.93.25:8686/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="BJ06" tvg-name="BTV生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="北京",北京生活
-http://123.121.93.25:8686/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="BJ07" tvg-name="BTV财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京财经
-http://123.121.93.25:8686/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="BJ08" tvg-name="BTV体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京体育
+#EXTINF:-1 tvg-id="BJ03" tvg-name="北京科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="北京",北京科教
+http://106.120.14.74:2333/udp/225.1.8.105:8002
+#EXTINF:-1 tvg-id="BJ04" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="北京",北京影视
+http://106.120.14.74:2333/udp/225.1.8.82:8000
+#EXTINF:-1 tvg-id="BJ05" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="北京",北京文艺
+http://106.120.14.74:2333/udp/225.1.8.22:8002
+#EXTINF:-1 tvg-id="BJ06" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="北京",北京生活
+http://106.120.14.74:2333/udp/225.1.8.108:8002
+#EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京财经
+http://106.120.14.74:2333/udp/225.1.8.106:8002
+#EXTINF:-1 tvg-id="BJ08" tvg-name="北京体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京体育
 http://123.121.93.25:8686/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="BJ08" tvg-name="BTV国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="北京",北京国际
-http://123.121.93.25:8686/rtp/239.3.1.235:8000
 
 
 #中央台
@@ -47,13 +45,13 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000026367/1.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视", CCTV11
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226541/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视", CCTV12
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031107/1.m3u8
+http://106.120.14.74:2333/udp/225.1.8.12:8124
 #EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视", CCTV13
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/index.m3u8
+http://106.120.14.74:2333/udp/225.1.8.168:8130
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视", CCTV14
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226166/index.m3u8
+http://106.120.14.74:2333/udp/225.1.8.14:8132
 #EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视", CCTV15
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/1.m3u8
+http://106.120.14.74:2333/udp/225.1.8.74:8136
 #EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视", CCTV16
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视", CCTV17
@@ -61,8 +59,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8
 
 
 #卫视台
-#EXTINF:-1 tvg-id="B01" tvg-name="凤凰卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",凤凰卫视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="B02" tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Zhejiang.png" group-title="卫视",浙江卫视
@@ -122,13 +118,7 @@ https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63
 
 #电影
 #EXTINF:-1 group-title="电影",淘电影
-https://pull.kktv8.com/livekktv/128600025.flv
-#EXTINF:-1 group-title="电影",CHC动作电影
-http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
-#EXTINF:-1 group-title="电影",CHC家庭影院
-http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-#EXTINF:-1 group-title="电影",CHC影迷电影
-http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+http://106.120.14.74:2333/udp/225.1.8.38:8002
 #EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级电影.png" group-title="电影",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="电影",黑莓电影
@@ -152,8 +142,6 @@ http://diyp.zxxoo.work/huya/11601986
 
 
 #剧集
-#EXTINF:-1 group-title="剧集",淘剧场HD
-http://123.114.80.74:8012/rtp/239.3.1.95:8001
 #EXTINF:-1 group-title="剧集",孤独美食家
 http://zzy789.xyz/douyu1.php?id=260322
 #EXTINF:-1 group-title="剧集",爱情公寓
@@ -203,8 +191,6 @@ http://zzy789.xyz/douyu1.php?id=1174353
 http://zzy789.xyz/douyu1.php?id=9445279
 
 #搞笑
-#EXTINF:-1 group-title="搞笑",淘娱乐
-http://123.114.80.74:8012/rtp/239.3.1.100:8001
 #EXTINF:-1 group-title="搞笑",搞笑剧集
 http://diyp.zxxoo.work/huya/11602085
 #EXTINF:-1 group-title="搞笑",搞笑剧集
