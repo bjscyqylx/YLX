@@ -103,8 +103,6 @@ http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="电影",CHC影迷电影
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓电影
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 #EXTINF:-1 group-title="电影",科幻动作
 http://zzy789.xyz/douyu1.php?id=4332
 #EXTINF:-1 group-title="电影",神乐影院
@@ -153,8 +151,6 @@ http://zzy789.xyz/douyu1.php?id=299854
 
 
 #动漫
-#EXTINF:-1 group-title="动漫",黑莓动画
-http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 group-title="动漫",火影忍者
 https://live.iill.top/huya/29465866
 #EXTINF:-1 group-title="动漫",宝可梦
